@@ -1,3 +1,6 @@
+
+
+
 This is the tidy data, which got all the the mean and standard deviation for each measurement (including test and training)
 =================================================================================================================================
 This dataset collected from: Human Activity Recognition Using Smartphones Dataset Version 1.0
