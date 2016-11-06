@@ -2,9 +2,8 @@ Read me: how all of the scripts work and how they are connected
 =================================================================================================================================
 
 This is the tidy data which got all the means and standard deviations for each measurement (including test and training)
+
 This dataset collected from: Human Activity Recognition Using Smartphones Dataset Version 1.0
-
-
 Original data source: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 ==================================================================================================================
 Step 1: download zip file from website
