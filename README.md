@@ -1,4 +1,4 @@
-
+Read me: how all of the scripts work and how they are connected
 
 
 This is the tidy data, which got all the the mean and standard deviation for each measurement (including test and training)
